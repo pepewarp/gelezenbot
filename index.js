@@ -1,4 +1,5 @@
 /* gemaakt zonder liefde door werp <3 */
+// ik zit in een constante depressie
 
 
 // Laad resources [BEGIN]
